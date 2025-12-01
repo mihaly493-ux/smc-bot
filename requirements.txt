@@ -1,2 +1,8 @@
-aiogram==3.4.1
-openai==0.28
+python-telegram-bot==20.6
+Pillow==10.4.0
+requests==2.32.3
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+scipy==1.13.1
+typing_extensions==4.12.2
